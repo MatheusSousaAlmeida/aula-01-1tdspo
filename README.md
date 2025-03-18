@@ -1,4 +1,6 @@
 # aula-01-1tdspo
-## Meu primeiro repositório
+# 🚀 Meu Repositório
 
-Professor muito comunicativo, dinâmico e descontraído. Gente boa demais!!
+Olá, mundo! 👋
+
+Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
